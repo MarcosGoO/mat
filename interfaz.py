@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import ttk as ttk
 from tkinter import messagebox as MessageBox
 from usuario import usuario
-print("HOLAAAA MUNDOOO")
+
 
 root = Tk()
 
